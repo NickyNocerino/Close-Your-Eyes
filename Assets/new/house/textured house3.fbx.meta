@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: 78960625ad73d2d46ad64077041ea529
+timeCreated: 1484990271
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: carpet1
+    100002: ceiling
+    100004: doorframe:polySurface1
+    100006: doorframes
+    100008: group3
+    100010: kitchen_wall
+    100012: polySurface1
+    100014: polySurface2
+    100016: polySurface3
+    100018: polySurface4
+    100020: polySurface5
+    100022: //RootNode
+    100024: walls
+    400000: carpet1
+    400002: ceiling
+    400004: doorframe:polySurface1
+    400006: doorframes
+    400008: group3
+    400010: kitchen_wall
+    400012: polySurface1
+    400014: polySurface2
+    400016: polySurface3
+    400018: polySurface4
+    400020: polySurface5
+    400022: //RootNode
+    400024: walls
+    2300000: carpet1
+    2300002: ceiling
+    2300004: doorframe:polySurface1
+    2300006: kitchen_wall
+    2300008: polySurface1
+    2300010: polySurface2
+    2300012: polySurface3
+    2300014: polySurface4
+    2300016: polySurface5
+    2300018: walls
+    3300000: carpet1
+    3300002: ceiling
+    3300004: doorframe:polySurface1
+    3300006: kitchen_wall
+    3300008: polySurface1
+    3300010: polySurface2
+    3300012: polySurface3
+    3300014: polySurface4
+    3300016: polySurface5
+    3300018: walls
+    4300000: carpet1
+    4300002: ceiling
+    4300004: walls
+    4300006: doorframe:polySurface1
+    4300008: polySurface4
+    4300010: polySurface2
+    4300012: polySurface3
+    4300014: polySurface5
+    4300016: polySurface1
+    4300018: kitchen_wall
+    6400000: carpet1
+    6400002: ceiling
+    6400004: doorframe:polySurface1
+    6400006: kitchen_wall
+    6400008: polySurface1
+    6400010: polySurface2
+    6400012: polySurface3
+    6400014: polySurface4
+    6400016: polySurface5
+    6400018: walls
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
